@@ -32,11 +32,11 @@ My current projects and academic interests revolve around:
 
 I am always open to connecting with fellow students, developers, and professionals in the tech and cybersecurity fields.
 
-*   **Connect with me:** **[Please replace this with your LinkedIn Profile Link]**
-*   **Email:** **[Please replace this with your Professional Email]**
+*   **Connect with me:** **www.linkedin.com/in/hamza-khchichine-1b68952b5**
+*   **Email:** **hamza.khchichine@eidia.ueuromed.org**
 
 Feel free to explore my repositories, especially my academic projects, to see my work!
 
 ***
 
-*This profile README was automatically generated to enhance the professional presentation of my academic work.*
+
