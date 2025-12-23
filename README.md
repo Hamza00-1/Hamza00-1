@@ -21,7 +21,7 @@ My current projects and academic interests revolve around:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | C++, Python, JavaScript |
+| **Programming Languages** | C++, Python, JavaScript,PHP,C,Rust |
 | **Cybersecurity** | Network Security, Ethical Hacking (e.g., Kali Linux tools), Cryptography |
 | **Frameworks & Tools** | Qt, Git, GitHub, Visual Studio, Linux |
 | **Concepts** | Object-Oriented Programming (OOP), Data Structures, Secure Coding Practices |
