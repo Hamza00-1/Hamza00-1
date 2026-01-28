@@ -15,9 +15,9 @@ An automated, agentless security framework for Linux. It handles the entire secu
 A complete simulation of a university campus network featuring 7 buildings. Implements a 3-layer hierarchical model with strict security parameters.
 - **Key Tech**: Cisco IOS, VLAN Isolation, DHCP, Access Control Lists (ACLs).
 
-### [🎓 Students Information Portal](https://github.com/Hamza00-1/HTML_Website_FOR_Studentsinfo)
-A collaborative web platform showcasing student profiles and academic modules, demonstrating proficiency in structured HTML and CSS design.
-- **Key Tech**: HTML5, CSS3, Responsive Design.
+### [🔔 EduNotify](https://github.com/Hamza00-1/edunotify)
+A student-focused notification platform that centralizes academic announcements and updates in a clean, accessible interface.
+- **Key Tech**: HTML5, CSS3, JavaScript, Responsive Design.
 
 ---
 
